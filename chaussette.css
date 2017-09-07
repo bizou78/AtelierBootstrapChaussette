@@ -1,0 +1,26 @@
+body{
+    padding-top: 70px;
+}
+
+.row{
+    padding-top: 5%;
+}
+
+
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+img.img-modal{
+    float:left;
+    
+}
+
+div.panel.panel-default{
+    margin-bottom: 0;
+}
